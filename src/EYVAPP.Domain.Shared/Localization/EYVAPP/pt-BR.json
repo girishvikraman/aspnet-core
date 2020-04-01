@@ -1,0 +1,9 @@
+{
+  "culture": "pt-BR",
+  "texts": {
+    "Menu:Home": "Principal",
+    "This is Localised Custom Text": "Este é um texto personalizado localizado",
+    "Welcome": "Seja bem-vindo!",
+    "LongWelcomeMessage": "Bem-vindo a esta aplicação. Este é um projeto inicial baseado no ABP framework. Para mais informações, visite abp.io."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "culture": "cs",
+  "texts": {
+    "Menu:Home": "Úvod",
+    "This is Localised Custom Text": "toto je lokalizovaný vlastní zvyk",
+    "Welcome": "Vítejte",
+    "LongWelcomeMessage": "Vítejte v aplikaci. Toto je startovací projekt založený na ABP frameworku. Pro více informací, navštivte abp.io."
+  }
+}
